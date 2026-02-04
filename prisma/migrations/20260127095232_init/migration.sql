@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "quiz_attempts" ALTER COLUMN "name" DROP DEFAULT,
+ALTER COLUMN "email" DROP DEFAULT;
